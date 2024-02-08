@@ -2,3 +2,14 @@ Git init
 git status
 git add .
 git commit -m "file inserted"
+
+-----
+---
+---
+git remote origin master
+
+git
+
+git hubs
+
+git stages
