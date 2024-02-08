@@ -4,3 +4,6 @@ git add .
 git commit -m "file inserted"
 ----------------
 git checkout comma
+
+---------------
+git add *.txt
