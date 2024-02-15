@@ -7,3 +7,10 @@ git checkout comma
 
 ---------------
 git add *.txt
+
+
+git -help
+git config --global user.name "Raghu"
+git config --global user.email "test@gmail.com"
+
+git config ---
